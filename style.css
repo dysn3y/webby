@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+header, footer {
+    text-align: center;
+    color: white;
+    padding: 20px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.main-header {
+    text-align: center;
+    padding: 20px;
+	width:1500;
+	height:811;
+}
+
+.h1-nav {
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+	color: #AAAAE1;
+	letter-spacing: -1.5px;
+	margin: 0;
+	font-size: 27px;
+	transform:scaleY(1.2);
+}
+
+.nav-section {
+    text-align: center;
+    padding: 20px;
+}
+
+.nav-section1 {
+    text-align: center;
+    padding: 57px;
+	background-image: url("Page BG/Nav BG.png");
+	
+}
+
+footer {
+    padding: 10px;
+    color: white;
+}
